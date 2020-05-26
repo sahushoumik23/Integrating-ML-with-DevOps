@@ -235,13 +235,22 @@ The job section to this part is .....
 </li>
   
 
-   With all these you will achieve a fully automated system that will have all the required stuffs to self train the model to increase the accuracy of the model...
    
-   Feel free to contact me if you have any doubt in the project ...
    
-   Contact me via Whatsapp:9338455463(No calls plzzz)
    
-   You can also contact via LinkedIn :
+   
+   
+    With all these you will achieve a fully automated system that will have all the required stuffs to self train the model to increase the accuracy of the model...
+
+    Feel free to contact me if you have any doubt in the project ...
+
+     Contact me via Whatsapp:9338455463(No calls plzzz)
+
+     You can also contact via LinkedIn :(www.linkedin.com/in/shoumik-sahu-3b5631188)
+
+
+     Thank you..
+
    
    
 
